@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-# pywallet.py 1.2
+# pywallet.py 1.2 (crypterloader)
 # based on http://github.com/gavinandresen/bitcointools
 #
 
